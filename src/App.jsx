@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import ButtonComponent from './components/button/button'
+import { Navbar } from './components/navbar/navbar'
 
 
 
@@ -7,7 +9,8 @@ function App() {
 
   return (
     <>
-   
+    <Navbar/>
+    <ButtonComponent/>
      
 
     </>
