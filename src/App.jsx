@@ -3,6 +3,8 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Contact from './pages/Contact'
 import { Footer } from './components/footer/footer'
+import { Navbar } from './components/navbar/navbar'
+
 
 
 function App() {

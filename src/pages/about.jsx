@@ -7,8 +7,8 @@ function About() {
 
   return (
     <section>
-      <h1>Om</h1>
-      <p>Information om virksomheden eller projektet.</p>
+      <h1>Greta</h1>
+      <p>This is me</p>
     </section>
   )
 }
