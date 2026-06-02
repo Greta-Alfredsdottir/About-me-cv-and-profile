@@ -1,7 +1,8 @@
-import { NavLink } from 'react-router-dom'
-import style from '../navbar/navbar.module.scss'
+import { Link } from "react-router";
+import { NavLink } from 'react-router-dom';
+import style from '../navbar/navbar.module.scss';
 
-export const  Navbar = () => {
+export function Navbar() {
 
 return (
 
